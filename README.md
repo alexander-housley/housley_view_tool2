@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HousleyViewTool2::Renderer.copyright 'Alex Housley', 'All Rights Reserved'
+```
 
 ## Development
 
